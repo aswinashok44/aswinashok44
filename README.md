@@ -1,7 +1,12 @@
 ## Hi there 👋
 
+I'm Aswin. A Software Engineer passionate about tinkering and DIY.
+I build networking products as Google Cloud Platform, before that I was at Cisco building Network monitoring solutions.
+
+I do sim racing and 3D modelling / printing in my free time.
+You can reach me on my [email](aswinashok44@gmail.com).
+
 <!--
-**aswinashok44/aswinashok44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
