@@ -4,7 +4,7 @@ I'm Aswin. A Software Engineer passionate about tinkering and DIY.
 I build networking products as Google Cloud Platform, before that I was at Cisco building Network monitoring solutions.
 
 I do sim racing and 3D modelling / printing in my free time.
-You can reach me on my <aswinashok44@gmail.com>.
+You can reach me on my [email](mailto:aswinashok44@gmail.com).
 
 <!--
 
